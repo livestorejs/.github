@@ -9,4 +9,4 @@ Early access currently only available for [Github sponsors](https://github.com/s
 
 ## Credits
 
-Based on the ideas of the [Riffle paper](https://riffle.systems/)https://riffle.systems/.
+Based on the ideas of the [Riffle paper](https://riffle.systems/).
