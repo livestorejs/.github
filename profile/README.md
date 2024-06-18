@@ -1,6 +1,6 @@
 # LiveStore
 
-Early access currently only available for [Github sponsors](https://github.com/sponsors/schickling).
+Early access currently only available for [Github sponsors](https://github.com/sponsors/schickling). (This also gives you access to the LiveStore Discord community.)
 
 ## Demos
 
