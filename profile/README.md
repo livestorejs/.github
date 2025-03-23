@@ -13,4 +13,6 @@ Additionally Expo EAS subscribers can also request early access via [this form](
 
 Based on the ideas of the [Riffle paper](https://riffle.systems/).
 
-## Crafted by [Overengineering Studio](https://github.com/overengineeringstudio)
+## Made by
+
+Crafted by [Overengineering Studio](https://github.com/overengineeringstudio)
