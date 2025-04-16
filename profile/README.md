@@ -5,8 +5,8 @@ Additionally Expo EAS subscribers can also request early access via [this form](
 
 ## Demos
 
-- [TodoMVC](https://todomvc.livestore.dev/)
-- [Linearlite](https://linearlite.livestore.dev/)
+- [TodoMVC](https://web-todomvc.livestore.dev/)
+- [Linearlite](https://web-linearlite.livestore.dev/)
 - [Linearlite Expo](https://www.youtube.com/watch?v=zQIhJqYU1Qw)
 
 ## Credits
